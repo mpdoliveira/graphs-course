@@ -1,0 +1,9 @@
+Karina Sousa Bahia, Rafael Nogueira Arruda e Marcos Paulo de Oliveira
+
+a) definir as arestas fantasmas.
+b) garantindo que não há ciclos nas dependências. Ex.: A->B e B->A.
+c) ela não inicia
+d) acordar -> levantar -> arrumar a cama -> escovar os dentes -> tomar banho -> se vestir -> tomar café.
+e) seguindos as dependências indicadas nas tarefas.
+f) um loop infinito, onde os vértices nunca iram para a pilha.
+g) sim.
